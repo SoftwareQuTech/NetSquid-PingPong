@@ -1,6 +1,8 @@
 NetSquid-PingPong (0.1.0)
 ================================
 
+**THIS REPO HAS MOVED TO https://gitlab.com/softwarequtech/netsquid-snippets/NetSquid-PingPong**
+
 Description
 -----------
 
